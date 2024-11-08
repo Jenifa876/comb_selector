@@ -17,7 +17,7 @@ Here is an overview of the CSS selectors used in style.css:
 
 Type Selector (h1, h2)
 
-Selects all <h1> and <h2> elements and styles them with color: blueviolet;.
+Selects all <h1> and  h2 elements and styles them with color: blueviolet;.
 Child Selector (.box > p)
 
 Targets only the direct <p> child of the .box div, applying color: firebrick;.
