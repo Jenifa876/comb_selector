@@ -8,7 +8,7 @@ style.css - The CSS file that contains the styling rules.
 # HTML Structure
 The HTML file includes the following elements:
 
-**Headings:** <h1> and <h2> elements are used for the main title and subheading.
+**Headings:** h1 and h2 elements are used for the main title and subheading.
 **Div Container (.box):** Contains a paragraph and an unordered list with items that represent tasks for the day.
 **Paragraphs:** Different paragraphs with specific classes to allow targeted styling.
 **List Items:** Some list items are marked as "done" using a done class.
